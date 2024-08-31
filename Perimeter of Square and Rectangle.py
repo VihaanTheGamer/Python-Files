@@ -5,8 +5,8 @@ shape=input(":")
 print("Shape is", shape)
 if shape=="square":
   side=int(input("Please tell a side in m: "))
-perimeter=(side*4)
-print("Perimeter of square is -  ",perimeter)
+  perimeter=(side*4)
+  print("Perimeter of square is -  ",perimeter)
 
 if shape=="rectangle":
        Length=int(input("Please provide a length of rectangle in m:  "))
