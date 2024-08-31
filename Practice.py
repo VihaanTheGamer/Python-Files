@@ -1,0 +1,8 @@
+print("Here is your bill")
+a=print("Sugar = $45")
+b=print("Chai Patti = $546")
+c=print("Tomates = $450")
+print("Total rupees are;")
+print("$1,041")
+input("I hope you will come back again:")
+print("Have a nice day")
