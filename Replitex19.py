@@ -6,5 +6,5 @@ for i in range(1, 101):
     elif i%5==0:
         print("buzz")
     else:
-        print(i)      
+        print(i)   
 
