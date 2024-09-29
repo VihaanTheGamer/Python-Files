@@ -4,7 +4,7 @@ attempts=0
 
 while True:
     try:
-        guess=int(input("Guess a number"))
+        guess=int(input("Guess a number "))
     except:
         print("Invalid value, try again")
         continue
